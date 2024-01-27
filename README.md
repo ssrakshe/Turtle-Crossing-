@@ -23,3 +23,5 @@ Have fun playing!
 This game was inspired by classic arcade games and developed for educational purposes.<br>
 Credits to the Turtle graphics library for providing a fun and interactive way to create games in Python.<br>
 Feel free to contribute or provide feedback. Happy gaming!<br>
+
+CONTACT ME: [Shubham Suresh Rakshe- www.linkedin.com/in/shubham-rakshe-861842193]
